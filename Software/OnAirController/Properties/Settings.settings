@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OnAirController.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="product_id" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">32822</Value>
+    </Setting>
+    <Setting Name="vendor_id" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">9025</Value>
+    </Setting>
+    <Setting Name="serial_number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OnAir</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
